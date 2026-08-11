@@ -1,0 +1,30 @@
+---
+title: "Youssef Benzarti"
+---
+
+::: {.lead}
+Associate Professor of Economics, University of California, Santa Barbara.
+Faculty Research Fellow, National Bureau of Economic Research.
+Director, Public Finance Lab, UCSB.
+:::
+
+I work on public finance: how taxes are borne, who ends up paying them, and what they cost
+to comply with. Recent work covers the incidence of value-added taxes, the costs households
+bear in filing tax returns, and payroll taxation.
+
+[benzarti@ucsb.edu](mailto:benzarti@ucsb.edu) ·
+[CV](https://www.dropbox.com/s/sxnieqiccjm7xw8/benzarti_cv.pdf?raw=1) ·
+[Google Scholar](https://scholar.google.com/citations?user=benzarti) ·
+[NBER](https://www.nber.org/people/youssef_benzarti)
+
+Department of Economics, University of California, Santa Barbara, CA 93106.
+
+---
+
+### Recent
+
+**A memo to the Danish Parliament's Finance Committee**, August 2026 — on whether a
+reduction in VAT on food would reach consumer prices. [Policy](policy.qmd)
+
+**Tax Incidence Anomalies**, *Annual Review of Economics*, 2025 — a survey of the cases where
+tax incidence does not behave as standard theory predicts. [Research](research.qmd)

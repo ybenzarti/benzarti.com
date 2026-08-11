@@ -1,0 +1,42 @@
+---
+title: "Policy"
+---
+
+### Policy writing
+
+**Response to the Danish Ministry of Finance on the price effects of a food VAT reduction**,
+August 2026. The Ministry's reply to Question No. 16 of the Folketing Finance Committee cited
+our 2020 study and set it aside as an average across goods. This memo re-estimates the result
+for food alone and for the kind of rate change Denmark is proposing, and reviews the evidence
+the Ministry assembled.
+[Memo](memo.pdf) · [Ministry's reply](#)
+
+### Expert testimony
+
+Expert witness for the Federal Trade Commission in *FTC v. H&R Block*, 2025 — report and
+deposition.
+[Case materials](https://www.ftc.gov/legal-library/browse/cases-proceedings/hr-block-matter)
+
+### Where the research is used
+
+The VAT pass-through results are used in the technical literature of the IMF, the World Bank,
+the OECD, the European Commission's Joint Research Centre, the Bank of Greece and the Banco de
+España, and in government and parliamentary analysis in Japan and Austria.
+
+A [Japanese Cabinet Secretariat working
+group](https://www.cas.go.jp/jp/seisaku/kokuminkaigi/contents/20260424/minutes.pdf) considering
+the 2027 food consumption-tax cut recorded average pass-through of 13 percent on VAT reductions
+against 55 percent on increases, across all EU VAT changes between 1996 and 2015, alongside the
+Argentine evidence that prices settled above their pre-cut level once the tax was restored
+except where increases were regulated. The [Austrian Parliament's
+Budgetdienst](https://www.parlament.gv.at/fachinfos/budgetdienst/Senkung-der-Umsatzsteuer-auf-ausgewaehlte-Nahrungsmittel)
+used the same asymmetry in its May 2026 analysis of the food-VAT cut.
+
+Selected citations: IMF Working Paper 25/165, *Efficiency Aspects of the VAT*; World Bank Policy
+Research Working Paper 10677, *VAT Rate Structures in Theory and Practice*; OECD Taxation Working
+Paper 49, *Reassessing the Regressivity of the VAT*; European Commission Joint Research Centre,
+*Price Effects of Temporary VAT Rate Cuts: Evidence from Spanish Supermarkets*.
+
+### Also
+
+Director, Public Finance Lab, UC Santa Barbara. Keynote, EU Tax Observatory conference, 2025.

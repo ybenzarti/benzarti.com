@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Youssef Benzarti"
+  description: "Associate Professor of Economics, UC Santa Barbara. Public finance, tax incidence, VAT."
+  site-url: "https://www.benzarti.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: policy.qmd
+        text: Policy
+      - href: press.qmd
+        text: Press
+    right:
+      - text: CV
+        href: "https://www.dropbox.com/s/sxnieqiccjm7xw8/benzarti_cv.pdf?raw=1"
+  page-footer:
+    center: "Youssef Benzarti · Department of Economics, UC Santa Barbara · benzarti@ucsb.edu"
+
+format:
+  html:
+    theme:
+      light: litera
+      dark: darkly
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    link-external-newwindow: true
