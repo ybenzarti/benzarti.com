@@ -1,5 +1,8 @@
 ---
 title: "Youssef Benzarti"
+description: |
+  Associate Professor of Economics at UC Santa Barbara and Faculty Research Fellow at the
+  NBER. Research on tax incidence, value-added taxes, and the costs of filing tax returns.
 ---
 
 ::: {.lead}

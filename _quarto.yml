@@ -6,6 +6,7 @@ website:
   title: "Youssef Benzarti"
   description: "Associate Professor of Economics, UC Santa Barbara. Public finance, tax incidence, VAT."
   site-url: "https://www.benzarti.com"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd

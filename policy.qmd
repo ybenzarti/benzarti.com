@@ -1,5 +1,8 @@
 ---
 title: "Policy & Press"
+description: |
+  Where research by Youssef Benzarti on VAT pass-through has entered policy debates in
+  Denmark, Japan, the UK, Austria, Spain, Greece and France, and press coverage of it.
 ---
 
 Where this research has entered policy debates, most recent first. Each entry carries what was
