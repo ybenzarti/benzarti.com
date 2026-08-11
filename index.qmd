@@ -21,10 +21,77 @@ Department of Economics, University of California, Santa Barbara, CA 93106.
 
 ---
 
-### Recent
+## Working papers
 
-**A memo to the Danish Parliament's Finance Committee**, August 2026 — on whether a
-reduction in VAT on food would reach consumer prices. [Policy & Press](policy.qmd)
+**Can VAT Cuts and Anti-Profiteering Measures Dampen the Effects of Food Price Inflation?**
+With Santiago Garriga and Dario Tortarolo. Revise and resubmit, *American Economic Review*.
+NBER Working Paper 32241, June 2024.
+[PDF](https://www.dropbox.com/scl/fi/mkoyp344ymtfw5fk6k1nd/VAT_price_controls_v10.pdf?rlkey=sqjf0qky28e34x18kl2h2fk7o&raw=1)
 
-**Tax Incidence Anomalies**, *Annual Review of Economics*, 2025 — a survey of the cases where
-tax incidence does not behave as standard theory predicts. [Research](research.qmd)
+**Modern US Workers' Compensation and Work-Related Injury: No Evidence of Moral Hazard.**
+With Emiliano Huet-Vaughn. NBER Working Paper 28187, November 2020.
+[PDF](https://www.dropbox.com/s/qp3ictyzj6uid65/WorkersComp%20_v2.pdf?raw=1)
+
+## Publications
+
+**Tax Incidence Anomalies.**
+*Annual Review of Economics*, 2025. NBER Working Paper 32819.
+[Slides](https://www.dropbox.com/scl/fi/qo2lqzrcwidypo7euzmt4/Tax_Incidence_Anomalies-46.pdf?rlkey=5tf2gbid23whp9u50h0dbvsy8&raw=1)
+
+**Rising Income Tax Complexity.**
+With Luisa Wallossek. *National Tax Journal*, 77(1), 2024. NBER Working Paper 31944.
+[PDF](https://www.dropbox.com/scl/fi/kdxp938me63nntg525tgk/NTJ_Forum_Tax_Filing_R2.pdf?rlkey=yw7q1i9b6z9g1xix3vgy9qvrz&raw=1)
+
+**Playing Hide and Seek: How Lenders Respond to Borrower Protection.**
+*Review of Economics and Statistics*, 106(2), 2024, 384–393. NBER Working Paper 26382.
+[PDF](https://www.dropbox.com/s/eftltrp9t6bo646/mortgage_R2_Restat.pdf?raw=1)
+<br>*Featured in* CardRates.com.
+
+**Can Payroll Tax Cuts Help Firms During Recessions?**
+With Jarkko Harju. *Journal of Public Economics*, 200, 2021, 104472. NBER Working Paper 27485.
+[PDF](https://www.dropbox.com/s/2a0cqzpcy6a4m1v/Payroll%20tax%20experiments_v7.pdf?raw=1)
+
+**Using Payroll Tax Variation to Unpack the Black Box of Firm-Level Production.**
+With Jarkko Harju. *Journal of the European Economic Association*, 19(5), 2021, 2737–2764.
+NBER Working Paper 26640.
+[PDF](https://www.dropbox.com/s/6fmfd61grk69szx/KL_elasticity_v7.pdf?raw=1)
+
+**Do Value-Added Taxes Affect International Trade Flows? Evidence from 30 Years of Tax Reforms.**
+With Alisa Tazhitdinova. *American Economic Journal: Economic Policy*, 13(4), 2021.
+NBER Working Paper 26195.
+[PDF](https://www.dropbox.com/scl/fi/11yjj6yqox8e2alpxcwt5/benzarti-tazhitdinova-2021-do-value-added-taxes-affect-international-trade-flows-evidence-from-30-years-of-tax-reforms.pdf?rlkey=1cldk13yqsenep33ahdmsybhs&raw=1)
+
+**Estimating the Costs of Filing Tax Returns and the Potential Savings from Policies Aimed at
+Reducing These Costs.**
+*Tax Policy and the Economy*, 35, 2021.
+[PDF](https://www.dropbox.com/scl/fi/bs2gkg9q3qryh8rrkdhif/benzarti-2021-estimating-the-costs-of-filing-tax-returns-and-the-potential-savings-from-policies-aimed-at-reducing.pdf?rlkey=ydyp6yrtpl827plcxqhyeg234&raw=1)
+<br>*Featured in* Marketplace.
+
+**What Goes Up May Not Come Down: Asymmetric Incidence of Value Added Taxes.**
+With Dorian Carloni, Jarkko Harju and Tuomas Kosonen. *Journal of Political Economy*, 128(12),
+December 2020. NBER Working Paper 23849.
+[PDF](https://www.dropbox.com/scl/fi/n6423cdo9h5okenkcny51/benzarti-et-al-2020-what-goes-up-may-not-come-down-asymmetric-incidence-of-value-added-taxes.pdf?rlkey=urrg39e564rg4idfftyzgodpx&raw=1)
+<br>*Featured in* Bloomberg, Microeconomic Insights. Used in policy debates in Denmark, Japan,
+Austria and the United Kingdom — see [Policy & Press](policy.qmd).
+
+**How Taxing Is Tax Filing? Using Revealed Preferences to Estimate Compliance Costs.**
+*American Economic Journal: Economic Policy*, November 2020. NBER Working Paper 23903.
+[PDF](https://www.dropbox.com/scl/fi/3c2r9oepo6qf9hgu7m9ve/benzarti-2020-how-taxing-is-tax-filing-using-revealed-preferences-to-estimate-compliance-costs.pdf?rlkey=llfxnmz54yfrt330li7x4cvej&raw=1)
+<br>*Featured in* Los Angeles Times, Washington Post, Time, Quartz, Marketplace, Le Figaro,
+The Blade, the Economic Report of the President, NBER Digest.
+
+**Does Mandating Social Insurance Affect Entrepreneurial Activity?**
+With Jarkko Harju and Tuomas Matikka. *American Economic Review: Insights*, June 2020.
+NBER Working Paper 25651.
+[PDF](https://www.dropbox.com/scl/fi/2zgtmhaic7i63j3rlcmg6/benzarti-et-al-2020-does-mandating-social-insurance-affect-entrepreneurial-activity.pdf?rlkey=gf4yl4hzsfm8hks95gtp12loh&raw=1)
+<br>*Featured in* AEA Research Highlights.
+
+**Who Really Benefits from Consumption Tax Cuts? Evidence from a Large VAT Reform in France.**
+With Dorian Carloni. *American Economic Journal: Economic Policy*, 11(1), February 2019, 38–63.
+NBER Working Paper 23848.
+[PDF](https://www.dropbox.com/scl/fi/kivap5dfb9at5bjvi2qj5/benzarti-carloni-2019-who-really-benefits-from-consumption-tax-cuts-evidence-from-a-large-vat-reform-in-france.pdf?rlkey=ixcnl7wvx8se905da8xl2fnwn&raw=1)
+·
+[Appendix](https://www.dropbox.com/s/vyigs7xzcp2bwe2/Appendix_AEJPol-2017-0504%20v3.pdf?raw=1)
+<br>*Featured in* Le Figaro, Les Echos, L'Express, Capital, LCI, BFM Business, Ouest-France,
+France 2, France 3, Libération, Alternatives Économiques, AEA Chart of the Week. See
+[Policy & Press](policy.qmd) for the 2018 debate this fed into.
