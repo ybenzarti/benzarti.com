@@ -113,12 +113,15 @@ Expert witness for the Federal Trade Commission in *FTC v. H&R Block*, 2025 — 
 deposition.
 [Case materials](https://www.ftc.gov/legal-library/browse/cases-proceedings/hr-block-matter)
 
-### Cited in the technical literature
+### In government documents
 
-IMF Working Paper 25/165, *Efficiency Aspects of the VAT* · World Bank Policy Research Working
-Paper 10677, *VAT Rate Structures in Theory and Practice* · OECD Taxation Working Paper 49,
-*Reassessing the Regressivity of the VAT* · Bank of Greece, *Economic Bulletin* 61 ·
-Österreichische Energieagentur for the Austrian climate and energy ministry,
+The **[Economic Report of the
+President](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/02/ERP_2018_Final-FINAL.pdf)**,
+February 2018, takes its estimate of US tax compliance costs from our work: "Benzarti (2017)
+estimates that the total cost of filing all schedules of the Federal income tax increased from
+$150 billion in 1984 to $200 billion in 2006 (1.4 percent of 2006 GDP)."
+
+The **Österreichische Energieagentur**, for the Austrian climate and energy ministry,
 ["Photovoltaikpreise im
 Sinkflug"](https://www.bmwet.gv.at/dam/jcr:51094b61-b47e-43e6-a5f3-f4947f2ef8b5/PV_Marktbeobachtung_Factsheet_2024.pdf),
 November 2024, applying the asymmetry to the solar-PV VAT exemption.
@@ -127,12 +130,11 @@ November 2024, applying the asymmetry to the solar-PV VAT exemption.
 
 [Chicago Booth
 Review](https://www.chicagobooth.edu/review/raising-taxes-leads-higher-prices-lowering-them-leads-greater-profits)
-· Bloomberg · Microeconomic Insights · VoxEU.
+· Bloomberg · Microeconomic Insights · VoxEU · NBER Digest.
 
 ### Tax filing
 
-Los Angeles Times · Washington Post · Time · Quartz · Marketplace · The Blade ·
-the Economic Report of the President · NBER Digest.
+Los Angeles Times · Washington Post · Time · Quartz · Marketplace · The Blade.
 
 ### Also
 
