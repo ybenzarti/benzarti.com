@@ -24,7 +24,7 @@ Department of Economics, University of California, Santa Barbara, CA 93106.
 ### Recent
 
 **A memo to the Danish Parliament's Finance Committee**, August 2026 — on whether a
-reduction in VAT on food would reach consumer prices. [Policy](policy.qmd)
+reduction in VAT on food would reach consumer prices. [Policy & Press](policy.qmd)
 
 **Tax Incidence Anomalies**, *Annual Review of Economics*, 2025 — a survey of the cases where
 tax incidence does not behave as standard theory predicts. [Research](research.qmd)

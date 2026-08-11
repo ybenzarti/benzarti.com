@@ -53,7 +53,7 @@ With Dorian Carloni, Jarkko Harju and Tuomas Kosonen. *Journal of Political Econ
 December 2020. NBER Working Paper 23849.
 [PDF](https://www.dropbox.com/scl/fi/n6423cdo9h5okenkcny51/benzarti-et-al-2020-what-goes-up-may-not-come-down-asymmetric-incidence-of-value-added-taxes.pdf?rlkey=urrg39e564rg4idfftyzgodpx&raw=1)
 <br>*Featured in* Bloomberg, Microeconomic Insights. Used in policy debates in Denmark, Japan,
-Austria and the United Kingdom — see [Policy](policy.qmd) and [Press](press.qmd).
+Austria and the United Kingdom — see [Policy & Press](policy.qmd).
 
 **How Taxing Is Tax Filing? Using Revealed Preferences to Estimate Compliance Costs.**
 *American Economic Journal: Economic Policy*, November 2020. NBER Working Paper 23903.
@@ -75,4 +75,4 @@ NBER Working Paper 23848.
 [Appendix](https://www.dropbox.com/s/vyigs7xzcp2bwe2/Appendix_AEJPol-2017-0504%20v3.pdf?raw=1)
 <br>*Featured in* Le Figaro, Les Echos, L'Express, Capital, LCI, BFM Business, Ouest-France,
 France 2, France 3, Libération, Alternatives Économiques, AEA Chart of the Week. See
-[Press](press.qmd) for the 2018 debate this fed into.
+[Policy & Press](policy.qmd) for the 2018 debate this fed into.

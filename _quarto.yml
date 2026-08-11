@@ -13,9 +13,7 @@ website:
       - href: research.qmd
         text: Research
       - href: policy.qmd
-        text: Policy
-      - href: press.qmd
-        text: Press
+        text: Policy & Press
     right:
       - text: CV
         href: "https://www.dropbox.com/s/sxnieqiccjm7xw8/benzarti_cv.pdf?raw=1"
