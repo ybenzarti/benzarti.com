@@ -50,10 +50,13 @@ started provisioning.
 
 ## Still to do
 
-1. **Two links on the site are knowingly wrong.** In `index.qmd`, the Google Scholar and NBER
-   URLs were constructed from standard patterns and never verified — the Scholar one is almost
-   certainly wrong, since Scholar IDs are random strings. In `policy.qmd`, the Ministry's reply
-   link is a placeholder `#`. Fix or delete all three.
+1. **Add back Google Scholar and NBER links, with real URLs.** The originals were constructed
+   from standard patterns, never verified, and were **removed on 11 August** rather than left
+   broken. Scholar IDs are random strings, so the profile URL has to be copied from the live
+   page. The Ministry's reply link was also a placeholder and is gone. **There are currently no
+   knowingly-broken links on the site.**
+2. **A public URL for the Danish Ministry's reply**, if one exists, to sit beside the memo in the
+   Denmark entry.
 2. **Getting this to outrank the old Google Site.** On-page work is done (meta descriptions,
    Open Graph, sitemap, robots). What remains needs logins:
    - Strip the old Google Site to one line pointing here. **Do not delete it** — Google Sites
@@ -72,6 +75,26 @@ started provisioning.
    June 2026. Both are wrong: the Nikkei interview of **7 July 2026** names him six times with
    three direct quotes, and was found only because it sat in that folder as an untitled PDF.
    The archive's own summaries need correcting.
+
+## ⚠ Do not trust an automated link check on this page
+
+Three hosts return errors to `curl`/scripts but are fine in a browser. All three were flagged as
+broken on 11–12 August and all three were false positives:
+
+| Host | What a script sees | Reality |
+|---|---|---|
+| `cas.go.jp` (Japanese Cabinet Secretariat minutes) | **404** | 200 with a browser user-agent; 338 KB PDF, both quoted passages verified inside it |
+| `bloomberg.com` (Giugliano column) | **403** | Fine — confirmed good by Youssef, 12 Aug |
+| `ftc.gov` (H&R Block case page) | **403** | Fine — confirmed good by Youssef, 12 Aug |
+
+Before removing any link on a 403/404, retry with a browser user-agent:
+
+    curl -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 \
+      (KHTML, like Gecko) Chrome/126.0 Safari/537.36" -sSI -L <url>
+
+**One link on the page rests on Youssef's own knowledge, not on retrieval:** the Bloomberg column
+(Ferdinando Giugliano, "A Bad New Tax Idea Is Doing the Rounds", 26 June 2020) is paywalled and
+could not be read, so that it cites the work is his confirmation, not something verified here.
 
 ## Editorial decisions worth not undoing
 
