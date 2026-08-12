@@ -57,7 +57,7 @@ started provisioning.
    knowingly-broken links on the site.**
 2. **A public URL for the Danish Ministry's reply**, if one exists, to sit beside the memo in the
    Denmark entry.
-2. **Getting this to outrank the old Google Site.** On-page work is done (meta descriptions,
+3. **Getting this to outrank the old Google Site.** On-page work is done (meta descriptions,
    Open Graph, sitemap, robots). What remains needs logins:
    - Strip the old Google Site to one line pointing here. **Do not delete it** — Google Sites
      cannot issue a redirect, and deleting throws away the ranking and breaks every CV link.
@@ -66,15 +66,14 @@ started provisioning.
      the CV PDF on Dropbox (Google indexes it, and it still prints the old address).
    - Google Search Console: verify the domain (DNS TXT is easiest, you control DNS at Square),
      submit `https://www.benzarti.com/sitemap.xml`, request indexing.
-3. **Read the Greece entry in `policy.qmd` before circulating the address.** It cites IME GSEVEE
+4. **Read the Greece entry in `policy.qmd` before circulating the address.** It cites IME GSEVEE
    Brief 37, which argues *against* the asymmetry for recent episodes. Included deliberately —
    it forecloses any charge of cherry-picking, and it is the only trace of the work in Greece —
    but it is a judgment call and striking it is one line.
-4. **The coverage archive has a gap.** `Projects/VAT asymmetry news coverage/` asserts there is
-   no named Japanese coverage, and its 5 August sweep says nothing has named Benzarti since
-   June 2026. Both are wrong: the Nikkei interview of **7 July 2026** names him six times with
-   three direct quotes, and was found only because it sat in that folder as an untitled PDF.
-   The archive's own summaries need correcting.
+5. *(closed 11 Aug)* The coverage archive asserted there was no named Japanese coverage. The
+   Nikkei interview of **7 July 2026** disproves it. Corrected in four files there, and a new
+   convention added: sweep every file type, not just `.md`/`.txt`/`.json` — the interview sat in
+   that folder as a `.pdf` and was missed by two sweeps because of the extension filter.
 
 ## ⚠ Do not trust an automated link check on this page
 
@@ -117,8 +116,10 @@ could not be read, so that it cites the work is his confirmation, not something 
   longer uniquely traceable), and POV International in Denmark (same problem).
 - **The 2018 French coverage was re-filed.** Les Echos, L'Express, Capital, LCI, Ouest-France and
   BFM were listed under *What Goes Up May Not Come Down* on the old site, but all six ran between
-  28 May and 11 June 2018 covering the IPP note, which is the **France paper**. Bloomberg and
-  Microeconomic Insights stayed with the JPE paper. Bloomberg is still undated and unplaced.
+  28 May and 11 June 2018 covering the IPP note, which is the **France paper**. Microeconomic Insights
+  stayed with the JPE paper. **Bloomberg was later identified** (Ferdinando Giugliano, Bloomberg
+  Opinion, 26 June 2020) and moved into the Europe 2020 entry, four days before the Il Sole
+  piece and in the same debate.
 
 ## Source material
 
