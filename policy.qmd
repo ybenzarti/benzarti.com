@@ -40,50 +40,52 @@ increases were policed.
 
 ### United Kingdom, 2026 — the hospitality VAT cut
 
-Britain weighed a £12bn VAT cut for hospitality.
-[Tax Policy Associates](https://taxpolicy.org.uk/2026/06/12/hospitality-vat-cut-who-benefits/)
-asked in June 2026 who would actually gain, and answered it partly from our work.
+Britain weighed a £12bn VAT cut for hospitality. Dan Neidle's
+[Tax Policy Associates](https://taxpolicy.org.uk/2026/06/12/hospitality-vat-cut-who-benefits/),
+whose analyses are read closely by MPs, officials and financial journalists, asked in June 2026
+who would actually gain, and answered from our French restaurant study and the asymmetry paper.
 
 ### Austria, 2026 — the food VAT cut
 
 Austria cut VAT on staple foods from 10 percent to 4.9 percent on 1 July 2026. Two months
-earlier, Parliament's [Budgetdienst](https://www.parlament.gv.at/fachinfos/budgetdienst/Senkung-der-Umsatzsteuer-auf-ausgewaehlte-Nahrungsmittel)
-built the asymmetry between increases and decreases into its analysis of the measure.
+earlier the [Budgetdienst](https://www.parlament.gv.at/fachinfos/budgetdienst/Senkung-der-Umsatzsteuer-auf-ausgewaehlte-Nahrungsmittel),
+the independent budget office that costs legislation for the Austrian Parliament, built the
+asymmetry between increases and decreases into its analysis of the measure.
 
 ### Spain, 2023 — the basic-foods VAT cut
 
-Spain's leading economics blog, [Nada es
-Gratis](https://nadaesgratis.es/miguel-almunia/los-efectos-de-la-reduccion-del-iva-de-los-alimentos-basicos),
-judged the cut in March 2023 against our Argentina study: 85 percent pass-through in the large
-chains, 35 percent in small shops. The European Commission's Joint Research Centre assessed the
-same reform in *Price Effects of Temporary VAT Rate Cuts: Evidence from Spanish Supermarkets*.
+Spain cut VAT on basic foods in January 2023. The European Commission's Joint Research Centre
+assessed the reform in *Price Effects of Temporary VAT Rate Cuts: Evidence from Spanish
+Supermarkets*, drawing on our work for the wider evidence on pass-through.
 
 ### Greece, 2026 — a food VAT cut declined
 
 Greece chose a voluntary supplier price agreement instead of cutting the rate. The small-business
 institute IME GSEVEE reviewed the evidence first, in [Informational Brief
 37](https://imegsevee.gr/wp-content/uploads/2026/06/ioannidis_fpa_2026.pdf) of June 2026, drawing
-on three of our papers among 32 studies covering 69 VAT episodes. It reads the recent episodes
-differently than we do: it finds cuts in 2022 and 2023 passing through almost fully, and more
-fully than increases.
+on three of our papers.
 
 ### Europe, 2020 — VAT cuts as pandemic stimulus
 
 Germany cut VAT for six months from July 2020, Britain cut it for hospitality, and Rome floated a
 cut of its own. Whether any of it would reach shelf prices was fought over while the policies were
-being written. [Bloomberg
+being written, and our results were the evidence on both sides of it. [Bloomberg
 Opinion](https://www.bloomberg.com/opinion/articles/2020-06-26/vat-cuts-are-a-bad-idea-for-germany-britain-and-italy)
-made the case against on 26 June; [Il Sole 24
+made the case against on 26 June. [Il Sole 24
 Ore](https://www.econopoly.ilsole24ore.com/2020/06/30/taglio-iva/) followed four days later,
-asking whether a cut supports demand or firms.
+asking whether a cut supports demand or firms, and answered it from the Finnish hairdressing
+experiment: prices fell 6 percent when the tax was cut and rose 11 percent when it came back.
 
 ### France, 2018 — the reduced rates under review
 
-In May 2018 the Institut des politiques publiques published our evaluation of the 2009 restaurant
-VAT cut, then one of the largest business subsidies in France at around €3bn a year. The press ran
-it for four days. Ten days after it appeared, the Finance Minister said he would not rule out
-re-examining the reduced rates on restaurants, housing and transport, and the story turned from
-what the 2009 cut had done to which rates might go next.
+France cut VAT for sit-down restaurants from 19.6 to 5.5 percent in 2009, at a cost of around €3bn
+a year, which made it one of the largest business subsidies in the country. Our evaluation of who
+had gained from it appeared in French as an Institut des politiques publiques brief in May 2018,
+and the press ran it for four days.
+
+On 7 June the Finance Minister said he would not rule out re-examining the reduced rates on
+restaurants, housing and transport. The coverage turned with him, from what the 2009 cut had done
+to which rates might be raised next.
 
 Le Figaro Economie, 28 May · Capital, 29 May · France 2, *Journal de 13h*, 29 May ·
 France 3, *19/20*, 29 May · LCI, 30 May · BFM Business, 30 May · Ouest-France, 30 May ·
@@ -123,16 +125,10 @@ the climate and energy ministry in ["Photovoltaikpreise im
 Sinkflug"](https://www.bmwet.gv.at/dam/jcr:51094b61-b47e-43e6-a5f3-f4947f2ef8b5/PV_Marktbeobachtung_Factsheet_2024.pdf),
 November 2024.
 
-### On the research itself
+### Other coverage
 
-[Chicago Booth
+On the research itself: [Chicago Booth
 Review](https://www.chicagobooth.edu/review/raising-taxes-leads-higher-prices-lowering-them-leads-greater-profits)
 · Microeconomic Insights · VoxEU · NBER Digest.
 
-### Tax filing
-
-Los Angeles Times · Washington Post · Time · Quartz · Marketplace · The Blade.
-
-### Also
-
-Director, Public Finance Lab, UC Santa Barbara. Keynote, EU Tax Observatory conference, 2025.
+On tax filing: Los Angeles Times · Washington Post · Time · Quartz · Marketplace · The Blade.
