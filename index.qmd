@@ -3,6 +3,44 @@ title: "Youssef Benzarti"
 description: |
   Associate Professor of Economics, UC Santa Barbara. Faculty Research Fellow, NBER.
   Director, Public Finance Lab.
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="canonical" href="https://www.benzarti.com/">
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Youssef Benzarti",
+            "givenName": "Youssef",
+            "familyName": "Benzarti",
+            "url": "https://www.benzarti.com/",
+            "email": "benzarti@ucsb.edu",
+            "jobTitle": "Associate Professor of Economics",
+            "knowsAbout": [
+              "Public finance",
+              "Tax incidence",
+              "Value-added tax",
+              "Tax compliance costs"
+            ],
+            "affiliation": [
+              {
+                "@type": "CollegeOrUniversity",
+                "name": "University of California, Santa Barbara"
+              },
+              {
+                "@type": "Organization",
+                "name": "National Bureau of Economic Research"
+              }
+            ],
+            "sameAs": [
+              "https://econ.ucsb.edu/people/faculty/youssef-benzarti",
+              "https://www.nber.org/people/youssef_benzarti",
+              "https://scholar.google.com/citations?user=fwyY8Q4AAAAJ"
+            ]
+          }
+          </script>
 ---
 
 ::: {.lead}

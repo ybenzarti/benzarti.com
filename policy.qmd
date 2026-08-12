@@ -1,5 +1,10 @@
 ---
 title: "Policy & Press"
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link rel="canonical" href="https://www.benzarti.com/policy.html">
 ---
 
 ### Denmark, 2026 — the food VAT proposal
