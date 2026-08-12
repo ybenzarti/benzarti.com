@@ -1,12 +1,6 @@
 ---
 title: "Policy & Press"
-description: |
-  Where research by Youssef Benzarti on VAT pass-through has entered policy debates in
-  Denmark, Japan, the UK, Austria, Spain, Greece, France and across Europe, and press
-  coverage of it.
 ---
-
-Eight debates over cutting VAT, most recent first.
 
 ### Denmark, 2026 — the food VAT proposal
 
