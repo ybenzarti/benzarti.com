@@ -15,7 +15,7 @@ website:
         text: Policy & Press
     right:
       - text: CV
-        href: "https://www.dropbox.com/s/sxnieqiccjm7xw8/benzarti_cv.pdf?raw=1"
+        href: cv.pdf
   page-footer:
     center: "Youssef Benzarti · Department of Economics, UC Santa Barbara · benzarti@ucsb.edu"
 
