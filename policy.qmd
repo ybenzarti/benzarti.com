@@ -10,14 +10,13 @@ Eight debates over cutting VAT, most recent first.
 
 ### Denmark, 2026 — the food VAT proposal
 
-The government took office promising to abolish VAT on fruit and vegetables and halve it on the
-rest of the food basket. Asked by the Finance Committee whether that would reach prices, the
-Ministry of Finance gathered the literature into a table, cited our 2020 study, and set it aside:
-it reports an average across goods, not a result for food.
+Denmark is preparing to abolish VAT on fruit and vegetables and halve it on the rest of the food
+basket, at a cost now put at 17.4 billion kroner a year. Whether a cut that size reaches shelf
+prices is what the Finance Committee asked the Ministry of Finance in June.
 
-I answered in
-**[a memo to the Committee](memo.pdf)**, which re-estimates the result for food alone and for the
-kind of rate change Denmark actually proposes, and reads the studies the Ministry assembled.
+**[My memo to the Committee](memo.pdf)** answers from the European evidence: what pass-through
+looks like once the estimates are restricted to food, and to the kind of rate change Denmark is
+actually proposing, and what the studies the Ministry assembled do and do not establish.
 
 [Jyllands-Posten](https://jyllands-posten.dk/politik/ECE19394802/) interviewed me in June 2026;
 [TV 2](https://nyheder.tv2.dk/politik/2026-06-19-forsker-piller-centralt-regeringsforslag-fra-hinanden)
