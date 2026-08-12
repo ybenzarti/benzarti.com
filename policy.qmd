@@ -2,7 +2,8 @@
 title: "Policy & Press"
 description: |
   Where research by Youssef Benzarti on VAT pass-through has entered policy debates in
-  Denmark, Japan, the UK, Austria, Spain, Greece and France, and press coverage of it.
+  Denmark, Japan, the UK, Austria, Spain, Greece, France and across Europe, and press
+  coverage of it.
 ---
 
 Where this research has entered policy debates, most recent first. Each entry carries what was
@@ -56,11 +57,12 @@ used the asymmetry between increases and decreases in its May 2026 analysis of t
 
 ### Spain, 2023 — the basic-foods VAT cut
 
-[Nada es
+Spain's leading economics blog, [Nada es
 Gratis](https://nadaesgratis.es/miguel-almunia/los-efectos-de-la-reduccion-del-iva-de-los-alimentos-basicos),
-March 2023. The reform was also assessed by the European Commission's Joint Research Centre,
-*Price Effects of Temporary VAT Rate Cuts: Evidence from Spanish Supermarkets*, and by Banco de
-España Working Paper 2417.
+March 2023, benchmarked the reform against our Argentina study — 85 percent pass-through in the
+large chains against 35 percent in small shops. The European Commission's Joint Research Centre
+assessed the reform in *Price Effects of Temporary VAT Rate Cuts: Evidence from Spanish
+Supermarkets*.
 
 ### Greece, 2026 — a food VAT cut declined
 
@@ -71,10 +73,17 @@ June 2026, drawing on three of our papers among 32 studies covering 69 VAT episo
 reading of the most recent episodes differs from ours: it finds cuts in 2022–23 passing through
 almost fully, and more fully than increases.
 
-### Italy, 2020 — VAT cuts as pandemic stimulus
+### Europe, 2020 — VAT cuts as pandemic stimulus
 
+Germany cut VAT for six months from July 2020, Britain cut it for hospitality, and the Italian
+government floated a cut of its own. The evidence on whether such cuts reach prices was argued
+over in real time.
+
+[Bloomberg
+Opinion](https://www.bloomberg.com/opinion/articles/2020-06-26/vat-cuts-are-a-bad-idea-for-germany-britain-and-italy),
+Ferdinando Giugliano, "A Bad New Tax Idea Is Doing the Rounds", 26 June 2020 ·
 [Il Sole 24 Ore, Econopoly](https://www.econopoly.ilsole24ore.com/2020/06/30/taglio-iva/),
-June 2020.
+"Sostenere la domanda o le imprese? I problemi di un taglio dell'Iva", 30 June 2020.
 
 ### France, 2018 — the reduced rates under review
 
@@ -99,11 +108,6 @@ October 2018 ·
 September 2019 · Vox-Fi (DFCG), September 2019 ·
 [Atlantico](https://atlantico.fr/article/decryptage/les-baisses-de-tva-pourraient-bien-favoriser-une-hausse-des-prix-youssef-benzarti),
 July 2023.
-
-### Finland, 2017
-
-[Labore](https://labore.fi/julkaisu/alvn-nostot-kohottavat-hintoja-paljon-enemman-kuin-sen-laskut-alentavat/)
-(then Palkansaajien tutkimuslaitos), October 2017.
 
 ---
 
@@ -130,7 +134,7 @@ November 2024, applying the asymmetry to the solar-PV VAT exemption.
 
 [Chicago Booth
 Review](https://www.chicagobooth.edu/review/raising-taxes-leads-higher-prices-lowering-them-leads-greater-profits)
-· Bloomberg · Microeconomic Insights · VoxEU · NBER Digest.
+· Microeconomic Insights · VoxEU · NBER Digest.
 
 ### Tax filing
 
