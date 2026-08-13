@@ -37,7 +37,9 @@ footer.footer { font-size: 0.85rem; }
 }
 .sidecol p { margin-bottom: 0.7rem; }
 
-main { overflow: hidden; }          /* contain the float */
+/* contain the float WITHOUT clipping: overflow:hidden would cut off the
+   negative right margin below, so use a clearfix instead */
+main::after { content: ""; display: table; clear: both; }
 
 /* on wide screens push the column into the right-hand margin; below 1100px
    there is no spare room, so it stays inside the content column */
