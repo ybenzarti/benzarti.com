@@ -95,6 +95,28 @@ Before removing any link on a 403/404, retry with a browser user-agent:
 (Ferdinando Giugliano, "A Bad New Tax Idea Is Doing the Rounds", 26 June 2020) is paywalled and
 could not be read, so that it cites the work is his confirmation, not something verified here.
 
+## Layout notes — non-obvious, easy to break
+
+- **Do not add `max-width` to `main`.** Quarto lays the page out as a CSS grid whose content
+  track is `minmax(500px, 850px - 3em)`. An earlier `max-width: 46rem` squeezed that track and
+  pulled the side column left; the negative margin added to compensate then pushed the column
+  out of its track and it was visibly clipped. Both are gone. Let the grid do the work.
+- **`main` uses a clearfix, not `overflow: hidden`.** `overflow: hidden` contains the float but
+  also clips anything extending past the box, which silently swallowed a layout change.
+- **The home page hides Quarto's title block** (`#title-block-header { display: none }`, scoped
+  in `index.qmd`'s own header, not the shared stylesheet). Quarto injects that block above the
+  body, so a floated column could never start level with it. The name is an ordinary `h1` placed
+  *after* the `.sidecol` div, which is what lets the two sit side by side. The `<title>` tag and
+  Open Graph title still come from the front matter and are unaffected. **`policy.html` keeps its
+  normal title block** — verify that if you touch this.
+- **The side column follows eml.berkeley.edu/~saez**, mirrored to the right: a 200px column with
+  the photo on top and affiliations and contacts stacked beneath. Under 700px it stops floating
+  and centres.
+- **Body text is justified with `hyphens: auto`**; the side column is deliberately excluded,
+  being too narrow to justify well. Hyphenation depends on `lang="en"` on the `<html>` element.
+- **Quarto wraps each section's content in `<section>`**, so `main > p` matches nothing. Use
+  `main p`.
+
 ## Editorial decisions worth not undoing
 
 - **Press is organised by policy debate, not by outlet or by paper.** The coverage tracks policy
