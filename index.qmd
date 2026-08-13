@@ -1,8 +1,5 @@
 ---
 title: "Youssef Benzarti"
-description: |
-  Associate Professor of Economics, UC Santa Barbara. Faculty Research Fellow, NBER.
-  Director, Public Finance Lab.
 format:
   html:
     include-in-header:
