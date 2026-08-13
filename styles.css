@@ -18,3 +18,25 @@ em { color: inherit; }
 .navbar-brand { font-weight: 600; }
 
 footer.footer { font-size: 0.85rem; }
+
+/* headshot: floats beside the bio on desktop, centred above it on narrow screens */
+.headshot {
+  float: right;
+  width: 175px;
+  margin: 0.2rem 0 1rem 1.75rem;
+}
+.headshot img {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  display: block;
+}
+.headshot p { margin: 0; }
+
+@media (max-width: 620px) {
+  .headshot {
+    float: none;
+    width: 160px;
+    margin: 0 auto 1.25rem;
+  }
+}

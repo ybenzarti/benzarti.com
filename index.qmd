@@ -43,6 +43,10 @@ format:
           </script>
 ---
 
+::: {.headshot}
+![](headshot.jpg){fig-alt="Youssef Benzarti"}
+:::
+
 ::: {.lead}
 Associate Professor of Economics, University of California, Santa Barbara.
 Faculty Research Fellow, National Bureau of Economic Research.
