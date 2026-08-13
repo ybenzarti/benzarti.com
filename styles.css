@@ -51,3 +51,20 @@ main::after { content: ""; display: table; clear: both; }
     text-align: center;
   }
 }
+
+/* justified body text, with hyphenation so the word spacing stays even.
+   The side column stays ragged-right: it is too narrow to justify well. */
+main p,
+main li {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+}
+
+.sidecol,
+.sidecol p {
+  text-align: left;
+  hyphens: manual;
+  -webkit-hyphens: manual;
+}
