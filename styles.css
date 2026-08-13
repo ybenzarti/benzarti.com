@@ -20,6 +20,9 @@ footer.footer { font-size: 0.85rem; }
 
 /* right-hand column: photo on top, affiliations and contacts stacked under it.
    Layout follows eml.berkeley.edu/~saez, mirrored to the right. */
+/* the name is an ordinary h1 in the body so it can sit level with the column */
+main > h1 { margin-top: 0; margin-bottom: 1.4rem; font-size: 1.9rem; }
+
 .sidecol {
   float: right;
   width: 200px;

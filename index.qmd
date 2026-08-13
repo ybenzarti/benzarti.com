@@ -5,6 +5,11 @@ format:
     include-in-header:
       - text: |
           <link rel="canonical" href="https://www.benzarti.com/">
+          <style>
+            /* the name is written in the body instead, so the side
+               column can start level with it */
+            #title-block-header { display: none; }
+          </style>
           <script type="application/ld+json">
           {
             "@context": "https://schema.org",
@@ -55,6 +60,8 @@ Public Finance Lab, UCSB
 [benzarti@ucsb.edu](mailto:benzarti@ucsb.edu)\
 [Curriculum vitae](cv.pdf)
 :::
+
+# Youssef Benzarti
 
 ## Working papers
 
