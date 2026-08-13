@@ -40,20 +40,21 @@ format:
           </script>
 ---
 
-::: {.headshot}
+::: {.sidecol}
 ![](headshot.jpg){fig-alt="Youssef Benzarti"}
+
+Associate Professor of Economics\
+University of California, Santa Barbara
+
+Faculty Research Fellow\
+National Bureau of Economic Research
+
+Director\
+Public Finance Lab, UCSB
+
+[benzarti@ucsb.edu](mailto:benzarti@ucsb.edu)\
+[Curriculum vitae](cv.pdf)
 :::
-
-::: {.lead}
-Associate Professor of Economics, University of California, Santa Barbara.
-Faculty Research Fellow, National Bureau of Economic Research.
-Director, Public Finance Lab, UCSB.
-:::
-
-[benzarti@ucsb.edu](mailto:benzarti@ucsb.edu) ·
-[CV](cv.pdf)
-
----
 
 ## Working papers
 
