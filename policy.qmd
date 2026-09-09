@@ -59,6 +59,19 @@ earlier the [Budgetdienst](https://www.parlament.gv.at/fachinfos/budgetdienst/Se
 the independent budget office that costs legislation for the Austrian Parliament, built the
 asymmetry between increases and decreases into its analysis of the measure.
 
+### Sweden, 2026 — the food VAT halving
+
+Sweden halved VAT on food from 12 to 6 percent on 1 April 2026, through the end of 2027, and
+asked Konsumentverket and Konjunkturinstitutet, the government's economic research institute, to
+measure whether the cut reached prices. Their first reading, delivered on 1 September 2026, found
+it fully passed through in grocery stores and only partly in takeaway food. The [takeaway
+study](https://www.konj.se/media/br2b5jiv/specialstudie-127-det-kortsiktiga-genomslaget-pa-hamtmatspriserna.pdf)
+cites our French restaurant paper on what such cuts do to restaurants' profits, sales and wages.
+It finds that chain restaurants cut takeaway prices little in the short run, and that independent
+restaurants were too sparsely observed to measure. [Grocery
+study](https://www.konj.se/media/qahnnrc3/specialstudie-128-den-sankta-mervardesskattens-genomslag-pa-livsmedelspriserna.pdf)
+· [Konsumentverket's summary](https://www.konsumentverket.se/nyhet/momssankningen-pa-livsmedel-har-fatt-fullt-genomslag-i-butikernas-priser/)
+
 ### Spain, 2023 — the basic-foods VAT cut
 
 Spain cut VAT on basic foods in January 2023. The European Commission's Joint Research Centre
@@ -68,9 +81,25 @@ Supermarkets*, drawing on our work for the wider evidence on pass-through.
 ### Greece, 2026 — a food VAT cut declined
 
 Greece chose a voluntary supplier price agreement instead of cutting the rate. The small-business
-institute IME GSEVEE reviewed the evidence first, in [Informational Brief
+institute IME GSEVEE reviewed the evidence in [Informational Brief
 37](https://imegsevee.gr/wp-content/uploads/2026/06/ioannidis_fpa_2026.pdf) of June 2026, drawing
-on three of our papers.
+on three of our papers. The Bank of Greece had weighed the evidence in its July 2025 [Economic
+Bulletin](https://www.bankofgreece.gr/Publications/econbull202507.pdf), drawing on the asymmetry
+paper and the Argentine study, and put the share of a cut that reaches prices at about a fifth.
+On 6 September 2026 the Prime Minister cited that figure at the Thessaloniki fair to rule a cut
+out again
+([Oikonomikos Tachydromos](https://www.ot.gr/2026/09/06/90i-deth/mitsotakis-i-anaptyksi-pou-den-eftase-stous-polites),
+[Naftemporiki](https://www.naftemporiki.gr/finance/economy/2157808/mitsotakis-mporoyme-na-dianemoyme-merisma-anaptyxis-ochi-sti-meiosi-toy-fpa/)).
+
+### Germany, 2022 — VAT cuts against the energy-price shock
+
+When Germany debated cutting VAT on food and energy in 2022, the left think tank Institut
+Solidarische Moderne argued for direct payments instead. Axel Troost's
+[note](https://www.solidarische-moderne.de/de/article/659.ist-die-forderung-nach-einer-senkung-der-mehrwertsteuer-aus-linker-sicht-richtig.html)
+of August 2022 rests the case on the asymmetry paper's finding that increases pass through about
+twice as strongly as cuts. The same argument had run on Die Linke's [debate
+platform](https://www.links-bewegt.de/de/article/557.wie-sollte-sich-die-linke-in-der-diskussion-um-mehrwertsteuersenkungen-verhalten.html)
+in May 2022.
 
 ### Europe, 2020 — VAT cuts as pandemic stimulus
 
@@ -106,6 +135,8 @@ Since then:
 [Aix-Marseille School of Economics](https://www.amse-aixmarseille.fr/fr/dialogeco/etude-sur-une-aide-aux-entreprises-les-taux-r%C3%A9duits-de-tva-notamment-dans-la-restauration),
 "Etude sur une aide aux entreprises : les taux réduits de TVA, notamment dans la restauration",
 October 2018 ·
+[Dialogues économiques on CNRS Le journal](https://lejournal.cnrs.fr/nos-blogs/dialogues-economiques-leco-a-portee-de-main/baisser-la-tva-mesure-virale-ou-mesure-vitale),
+"Baisser la TVA : mesure virale ou mesure vitale ? Le cas de la restauration", March 2019 ·
 [Telos](https://www.telos-eu.com/fr/economie/le-mille-feuille-des-politiques-publiques-ou-le-re.html),
 September 2019 · Vox-Fi (DFCG), September 2019 ·
 [Atlantico](https://atlantico.fr/article/decryptage/les-baisses-de-tva-pourraient-bien-favoriser-une-hausse-des-prix-youssef-benzarti),
@@ -132,10 +163,17 @@ the climate and energy ministry in ["Photovoltaikpreise im
 Sinkflug"](https://www.bmwet.gv.at/dam/jcr:51094b61-b47e-43e6-a5f3-f4947f2ef8b5/PV_Marktbeobachtung_Factsheet_2024.pdf),
 November 2024.
 
+The Dutch Ministry of Finance's [impact
+analysis](https://open.overheid.nl/documenten/aa6e8be0-5053-470f-80f0-0bfa041f8e75/file) of the
+January 2026 increase in VAT on overnight accommodation, from 9 to 21 percent, published in June
+2025, took from the asymmetry paper that prices respond more strongly when a rate is raised than
+when it is cut.
+
 ### Other coverage
 
 On the research itself: [Chicago Booth
 Review](https://www.chicagobooth.edu/review/raising-taxes-leads-higher-prices-lowering-them-leads-greater-profits)
-· Microeconomic Insights · VoxEU · NBER Digest.
+· Microeconomic Insights · VoxEU · NBER Digest ·
+[Tax Expenditures Lab](https://www.taxexpenditures.org/2026/03/09/what-the-price-of-your-haircut-says-about-your-economic-power/).
 
 On tax filing: Los Angeles Times · Washington Post · Time · Quartz · Marketplace · The Blade.
