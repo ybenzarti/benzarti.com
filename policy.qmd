@@ -7,6 +7,20 @@ format:
           <link rel="canonical" href="https://www.benzarti.com/policy.html">
 ---
 
+Governments now use my work on VAT incidence when they decide whether to change VAT rates. In
+June 2026, when Denmark's Finance Committee asked whether a proposed food VAT cut would reach
+shelf prices, the Ministry of Finance weighed our *Journal of Political Economy* estimates, and I
+answered the Committee in a memo on what the European evidence does and does not show. The
+Cabinet Secretariat working group on Japan's 2027 food consumption-tax cut minuted the same
+estimates, along with our Argentine finding that prices end higher once a rate is restored unless
+increases are monitored. The Dutch Ministry of Finance's impact analysis of its 2026 accommodation
+VAT increase took the asymmetry from the same paper. The Bank of Greece drew on the asymmetry and
+Argentine papers to put the share of a cut that reaches prices at about a fifth, the figure the
+Prime Minister cited in September 2026 in ruling a cut out. Sweden's official evaluation of its
+2026 food VAT cut and the European Commission's Joint Research Centre assessment of Spain's 2023
+cut both draw on our work. The 2018 Economic Report of the President took its estimate of US tax
+compliance costs from mine.
+
 ### Denmark, 2026 — the food VAT proposal
 
 Denmark is preparing to abolish VAT on fruit and vegetables and halve it on the rest of the food
