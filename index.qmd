@@ -78,16 +78,16 @@ With Jarkko Harju, Ella Mattinen, Tuomas Matikka and Alisa Tazhitdinova. July 20
 With Sami Jysmä and Jarkko Harju. NBER Working Paper 35484, July 2026.
 [PDF](policy-thresholds-growth-barriers.pdf)
 
-**Can VAT Cuts and Anti-Profiteering Measures Dampen the Effects of Food Price Inflation?**
-With Santiago Garriga and Dario Tortarolo. Conditionally accepted, *American Economic Review*.
-NBER Working Paper 32241, June 2024.
-[PDF](vat-price-controls-argentina.pdf)
-
 **Modern US Workers' Compensation and Work-Related Injury: No Evidence of Moral Hazard.**
 With Emiliano Huet-Vaughn. NBER Working Paper 28187, November 2020.
 [PDF](https://www.dropbox.com/s/qp3ictyzj6uid65/WorkersComp%20_v2.pdf?raw=1)
 
 ## Publications
+
+**Can VAT Cuts and Anti-Profiteering Measures Dampen the Effects of Food Price Inflation?**
+With Santiago Garriga and Dario Tortarolo. Conditionally accepted, *American Economic Review*.
+NBER Working Paper 32241, June 2024.
+[PDF](vat-price-controls-argentina.pdf)
 
 **Tax Incidence Anomalies.**
 *Annual Review of Economics*, 2025. NBER Working Paper 32819.
