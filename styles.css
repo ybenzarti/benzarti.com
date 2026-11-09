@@ -68,3 +68,8 @@ main li {
   hyphens: manual;
   -webkit-hyphens: manual;
 }
+
+/* section headings sit beside the floated photo column. Making each
+   heading its own formatting context stops its rule at the column
+   instead of running underneath it. */
+main h2 { display: flow-root; }
