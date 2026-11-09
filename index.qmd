@@ -70,6 +70,10 @@ incidence: who actually bears American taxes, and why the political debate gets 
 
 ## Working papers
 
+**Path Dependence in the Price Level: Testing Pricing Models with a Fully Reversed VAT Cut.**
+With Santiago Garriga and Dario Tortarolo. October 2026.
+[PDF](path-dependence-price-level.pdf)
+
 **Moral Hazard and Adverse Selection in the Social Insurance Market for Entrepreneurs.**
 With Jarkko Harju, Ella Mattinen, Tuomas Matikka and Alisa Tazhitdinova. July 2026.
 [PDF](social-insurance-entrepreneurs.pdf)
