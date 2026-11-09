@@ -70,6 +70,10 @@ incidence: who actually bears American taxes, and why the political debate gets 
 
 ## Working papers
 
+**Easy to Collect, Costly to Bear: Mobile Money Taxation and Network Spillovers in Tanzania.**
+With Santiago Garriga and Dario Tortarolo. November 2026.
+[PDF](mobile-money-taxation-tanzania.pdf)
+
 **Path Dependence in the Price Level: Testing Pricing Models with a Fully Reversed VAT Cut.**
 With Santiago Garriga and Dario Tortarolo. October 2026.
 [PDF](path-dependence-price-level.pdf)
